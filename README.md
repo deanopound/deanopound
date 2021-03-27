@@ -28,5 +28,4 @@ I'm a Software Engineer located in Manchester, UK with plenty of experience work
   - Configuring and manipulating **MongoDB** for CRUD API usage
   - Creating dashboards and alerts for monitoring with **New Relic** and **Grafana**
 
-### [LinkedIn](https://www.linkedin.com/in/deanpound/)
-### [GitHub](https://github.com/deanopound)
+**[DEV](https://dev.to/deanopound)** | **[GitHub](https://github.com/deanopound)** | **[LinkedIn](https://www.linkedin.com/in/deanpound/)** | **[Twitter](https://twitter.com/deanopound)**

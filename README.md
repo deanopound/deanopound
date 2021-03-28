@@ -31,8 +31,6 @@ Due to an unusual journey into engineering, I possess a unique skill set gained 
 - Configuring and manipulating **MongoDB** for CRUD API usage
 - Creating dashboards and alerts for monitoring with **New Relic** and **Grafana**
 
----
-
 ### Non-Technical experience includes, but not limited to:
 - Liasing with third parties to gather data and information required for issues
 - Gathering and processing required data to analyse performance or impact of features and issues

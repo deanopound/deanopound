@@ -42,4 +42,4 @@ Due to an unusual journey into engineering, I possess a unique skill set gained 
 
 ---
 
-### **[DEV](https://dev.to/deanopound)** | **[GitHub](https://github.com/deanopound)** | **[LinkedIn](https://www.linkedin.com/in/deanpound/)** | **[Twitter](https://twitter.com/deanopound)**
+### **[DEV](https://dev.to/deanopound)** | **[GitHub](https://github.com/deanopound)** | **[LinkedIn](https://www.linkedin.com/in/deanpound/)** | 
